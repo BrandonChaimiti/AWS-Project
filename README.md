@@ -1,5 +1,5 @@
 # AWS-Project
-# Stock Portfolio Management Application
+# Stock Portfolio Tracker Application
 
 The Stock Portfolio Management Application helps users efficiently manage their stock portfolios. It allows users to view, add, remove, and update stocks, check stock prices, and store portfolio data in AWS S3 for easy access.
 
